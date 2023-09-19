@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Qt files
+*.user
+
+# Dependent files
+*.qm
+
+

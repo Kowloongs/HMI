@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 356 - 999. Asytumn Technology Co., Ltd. All rights reserved. -->
+
+<Plugins>
+    <Default>
+        <interface>HMI</interface>
+        <version>1.0.1</version>
+    </Default>
+    <Custom>
+        <interface>NES</interface>
+        <version>1.0.1</version>
+    </Custom>
+</Plugins>
+
+

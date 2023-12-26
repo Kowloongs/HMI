@@ -1,4 +1,0 @@
-# Copyright (C) 2015 - 2029. Asytumn Technology Co., Ltd. All rights reserved.
-#
-
-
